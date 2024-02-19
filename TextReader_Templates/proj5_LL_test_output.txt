@@ -1,0 +1,67 @@
+Test 1 - Default Constructor and Inserts
+apples:2
+bananas:2
+barf:2
+candy:4
+cookies:2
+dogs:2
+elephants:2
+END
+Test 2 - Copy Constructor
+*******Original*********
+apples:2
+bananas:2
+barf:2
+candy:4
+cookies:2
+dogs:2
+elephants:2
+END
+*******Copy*********
+apples:2
+bananas:2
+barf:2
+candy:4
+cookies:2
+dogs:2
+elephants:2
+END
+Test 3 - Overloaded Assignment Operator
+Doing assignment
+*******Assignment*********
+apples:2
+bananas:2
+barf:2
+candy:4
+cookies:2
+dogs:2
+elephants:2
+END
+
+Test 4 - Display and Overloaded << Running
+newLL1 Display Function
+apples:2
+bananas:2
+barf:2
+candy:4
+cookies:2
+dogs:2
+elephants:2
+END
+newLL1 Overloaded
+apples:2
+bananas:2
+barf:2
+candy:4
+cookies:2
+dogs:2
+elephants:2
+RemoveAt(candy)
+newLL1 Display Function
+apples:2
+bananas:2
+barf:2
+cookies:2
+dogs:2
+elephants:2
+END
